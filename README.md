@@ -17,6 +17,4 @@ Open your browser to connect `http://localhost:8080`.
 
 # Development on Heroku
 
-0. Register an account and create a new app.
-1. `heroku login`
-2. `heroku`
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/yhsiang/culture-express)
