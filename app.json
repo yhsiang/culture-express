@@ -1,0 +1,7 @@
+{
+  "name": "Taipei Culture Express RSS Feed",
+  "description": "RSS feed for taipei culture express",
+  "repository": "https://github.com/yhsiang/culture-express",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "rss"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "culture-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "6to5-node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "6to5": "^3.3.12",
+    "cheerio": "^0.18.0",
+    "express": "^4.11.2",
+    "lodash": "^3.1.0",
+    "request": "^2.53.0",
+    "rss": "^1.1.1"
+  }
+}
