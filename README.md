@@ -13,6 +13,7 @@
 1. `$ npm start`
 
 Server will listen on `localhost:8080`.
+
 Open your browser to connect `http://localhost:8080`.
 
 # Development on Heroku
