@@ -19,3 +19,7 @@ Open your browser to connect `http://localhost:8080`.
 # Development on Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/yhsiang/culture-express)
+
+# LICENSE
+
+MIT
